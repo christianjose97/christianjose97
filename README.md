@@ -52,8 +52,7 @@
 
 <h2 align="left">📫Contact</h2>
 
-###
-
-<p align="left">For the quickest response checkout out  my LinkedIn.</p>
-
-###
+##
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/christian-d-jose-8a2718193/))
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/) (Coming soon!)
+##
