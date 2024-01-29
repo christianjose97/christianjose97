@@ -64,7 +64,7 @@ For the quickest response, checkout out  my [LinkedIn](https://www.linkedin.com/
 ###
 
 <details open>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: My GitHub Stats</summary>
 
   <br>
 
