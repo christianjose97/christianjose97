@@ -62,3 +62,13 @@
 For the quickest response, checkout out  my [LinkedIn](https://www.linkedin.com/in/christian-d-jose-8a2718193/) and send me a DM!
 
 ###
+
+<details open>
+  <summary>:zap: GitHub Stats</summary>
+
+  <br>
+
+  | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christianjose97&theme=chartreuse-dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christianjose97&layout=compact&theme=chartreuse-dark&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+| -- | -- |
+
+</details>
