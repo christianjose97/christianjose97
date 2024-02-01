@@ -51,7 +51,7 @@
 
 ###
 
-<p align="left">- JoJos Bizzare Adventure and One piece are my favorite animes<br>- I play many instruments<br>- I love reading books<br>- I play many instruments<br>- Exercise enthusiast</p>
+<p align="left">- JoJos Bizzare Adventure and One piece are my favorite animes/mangas<br>- I play many instruments<br>- I love reading books<br>- I play many instruments<br>- Exercise enthusiast</p>
 
 ###
 
