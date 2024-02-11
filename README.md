@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a developer based in New Jersey, and I am a creative-a-neer. I am passionate with exploring and learning about the coding multiverse.</p>
+<p align="left">I am a developer based in the USA, and I am a creative-a-neer. I am passionate with exploring and learning about the coding multiverse.</p>
 
 ###
 
