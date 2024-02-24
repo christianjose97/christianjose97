@@ -4,7 +4,7 @@
 
 <p align="left">I am a developer based in the USA, and I am a creative-a-neer. I am passionate about exploring and learning about the coding multiverse.</p>
 
-![ora-jjba](https://github.com/christianjose97/christianjose97/assets/43887661/e4394a56-c6a1-4504-ba3e-0ee96e39253a)
+<img src="https://github.com/christianjose97/christianjose97/assets/43887661/e4394a56-c6a1-4504-ba3e-0ee96e39253a" alt="ora-jjba" autoplay>
 
 ###
 
