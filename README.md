@@ -4,8 +4,10 @@
 
 <p align="left">I am a developer based in the USA, and I am a creative-a-neer. I am passionate about exploring and learning about the coding multiverse.</p>
 
-<img src="https://github.com/christianjose97/christianjose97/assets/43887661/e4394a56-c6a1-4504-ba3e-0ee96e39253a" alt="ora-jjba" autoplay>
-<img src="https://github.com/christianjose97/christianjose97/assets/43887661/5ef77c9a-192e-495e-8723-035178c46888" alt="luffy" autoplay width="150px"
+<p align="center">
+  <img src="https://github.com/christianjose97/christianjose97/assets/43887661/e4394a56-c6a1-4504-ba3e-0ee96e39253a" alt="ora-jjba" autoplay width="350px">
+  <img src="https://github.com/christianjose97/christianjose97/assets/43887661/5ef77c9a-192e-495e-8723-035178c46888" alt="luffy" autoplay width="300px">
+</p>
 
 ###
 
