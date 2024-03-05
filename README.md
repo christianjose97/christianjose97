@@ -13,7 +13,7 @@
 
 <br clear="both">
 
-<h2 align="left">🔨Whats in my toolbox?</h2>
+<h2 align="left">🔨What is in my toolbox?</h2>
 
 ###
 
