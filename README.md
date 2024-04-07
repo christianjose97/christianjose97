@@ -13,7 +13,7 @@
 
 <br clear="both">
 
-<h2 align="left">🔨What is in my toolbox?</h2>
+<h2 align="left">🔨 What is in my toolbox?</h2>
 
 ###
 
@@ -53,7 +53,7 @@
 
 ###
 
-<h2 align="left">✨Fun Facts</h2>
+<h2 align="left">✨ Cool Facts About Me</h2>
 
 ###
 
