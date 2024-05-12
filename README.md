@@ -57,7 +57,7 @@
 
 ###
 
-<p align="left">- JoJos Bizzare Adventure and One Piece are my favorite animes/mangas of all time. <br>- I play many instruments<br>- I love reading books<br>- I play many instruments<br>- Exercise enthusiast</p>
+<p align="left">- JoJos Bizzare Adventure and One Piece are my favorite animes/mangas of all time. <br>- I play many instruments<br>- I love reading books<br>- I play many instruments<br>- Exercise enthusiast <br>- I am a realestate nerd</p>
 
 ###
 
