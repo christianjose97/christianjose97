@@ -65,7 +65,7 @@
 
 ###
 
-For the quickest response, check out  my [LinkedIn](https://www.linkedin.com/in/christian-d-jose-8a2718193/) and send me a DM!
+For the quickest response, check out  my [LinkedIn](https://www.linkedin.com/in/christian-d-jose-8a2718193/) !
 
 ###
 
